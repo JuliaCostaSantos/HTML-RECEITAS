@@ -1,0 +1,70 @@
+<!DOCTYPE
+<html>
+   <head>
+   
+      <title>Receitas da JU  </title>
+      <link rel="shortcut icon" href="favicon-16x16.png" type="image/x-icon" /> 
+   </head> 
+   
+   <body> 
+
+      <h1><font size="7"> BANANA SPLIT </font> <bR></h1>
+      <img src="receitas-de-banana-split.jpg" alt="receitas-de-banana-split" width="400" height="400"> 
+            
+      <table border="1">
+        
+      
+         <tr>
+            <th>Tempo de Preparo</th>
+            <tH> rendimento</tH>
+            
+         </tr>
+            
+         <tr>
+            <th> 10 minutos</th>
+            <td>02 porcões</td>   
+           
+         </tr>      
+         
+      <table>
+
+
+      <h2><font size="5"> Ingredientes  </font> </h2>
+            
+         <ul>
+
+            <li>2 bananas, nanicas</li> 
+            <li>6 bolas de sorvete, do seu sabor preferido </li> 
+            <li>1 xícara (chá) de creme de leite fresco</li> 
+            <li>4 cerejas em calda</li> 
+            <li>2 colheres (sopa) de castanha de caju picada Calda de chocolate a gosto</li>
+
+            </ul>
+            
+               
+      <h3><font size="5"> Modo de preparo </font> <br></h3> 
+               
+         <ol> 
+                  
+            <li>Coloque o creme de leite fresco num recipiente e bata até o ponto de chantilly.</li>
+            <li> Reserve.</li>
+            <li>Descasque as bananas e corte ao meio, no sentido do comprimento.</li>
+            <li>Coloque duas metades de banana em cada recipiente.</li>
+            <li>Distribua 3 bolas de sorvete sobre cada porção.</li>
+            <li>Coloque chantilly entre as bolas de sorvete.</li>
+            <li> Acrescente 2 cerejas em cada porção.</li>
+            <li>Acrescente a calda de chocolate e a castanha de caju.</li>
+            <li>Sirva a seguir.</li>
+                  
+         </ol>
+            
+               
+               
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/lqvWDT6YGuA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+
+      
+   </body>
+
+
+
+</html>  
