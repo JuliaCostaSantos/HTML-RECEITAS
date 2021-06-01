@@ -1,0 +1,33 @@
+<!DOCTYPE 
+html>
+    
+    <head>
+    
+        <title>Pagina inicial</title>
+    
+    </head>
+   
+    <body>
+
+     <img src="logo.jpg" alt="logo" width="850" height="400">
+
+     <h1><font size="7"> Um pouco sobre o site </font> <bR></h1>
+     <h2><font size="5"> Criei esse site no intuito de lembrar as receitas que quero fazer futuramente. </font> <br> </h2>
+     <h3><font size="7"> Receitas do site</font> <br></h3>  
+
+     <ul>
+        <li> <a href="Receita de banana split.html">Receita de banana split</a> </li>
+     </ul> <ul>
+        <li> <a href="Receita de macarons.html">Receita de macarons</a> </li>
+     </ul> <ul>
+        <li> <a href="pudim de leite condensado.html">Receita de pudim de leite condensado </a> </li>
+     </ul>
+
+
+    
+
+    </body>    
+
+
+
+</html>
